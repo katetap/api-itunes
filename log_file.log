@@ -1,0 +1,53 @@
+[2023-06-01 21:09:54,472] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:09:55,797] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /lookup?id=860011430&media=software HTTP/1.1" 200 4329
+[2023-06-01 21:09:55,814] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:09:56,483] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Ghost&media=software&country=RU&limit=200 HTTP/1.1" 200 321955
+[2023-06-01 21:09:57,718] main INFO : 102 - The position search result has been added to the table (word=Ghost)
+[2023-06-01 21:09:57,718] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:09:58,851] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Lens&media=software&country=RU&limit=200 HTTP/1.1" 200 449806
+[2023-06-01 21:10:00,944] main INFO : 102 - The position search result has been added to the table (word=Lens)
+[2023-06-01 21:10:00,959] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:10:01,508] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=AR&media=software&country=RU&limit=200 HTTP/1.1" 200 524145
+[2023-06-01 21:10:03,143] main INFO : 105 - The position search result has not been added to the table (word=AR)
+[2023-06-01 21:10:03,159] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:10:03,982] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Fun&media=software&country=RU&limit=200 HTTP/1.1" 200 428308
+[2023-06-01 21:10:05,347] main INFO : 102 - The position search result has been added to the table (word=Fun)
+[2023-06-01 21:10:05,347] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:10:06,003] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Movie&media=software&country=RU&limit=200 HTTP/1.1" 200 343084
+[2023-06-01 21:10:07,991] main INFO : 102 - The position search result has been added to the table (word=Movie)
+[2023-06-01 21:10:08,007] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:10:09,875] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Maker&media=software&country=RU&limit=200 HTTP/1.1" 200 507450
+[2023-06-01 21:10:11,314] main INFO : 102 - The position search result has been added to the table (word=Maker)
+[2023-06-01 21:10:11,314] main INFO : 107 - Research for Ghost Lens AR Fun Movie Maker completed
+[2023-06-01 21:10:37,218] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:11:07,912] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /lookup?id=123&media=software HTTP/1.1" 200 55
+[2023-06-01 21:11:07,912] main INFO : 33 - Information not found (appleid=123)
+[2023-06-01 21:55:07,637] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:55:08,357] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /lookup?id=860011431&media=software HTTP/1.1" 200 55
+[2023-06-01 21:55:08,357] script INFO : 38 - Information not found (appleid=860011431)
+[2023-06-01 21:55:19,671] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:55:20,273] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /lookup?id=860011432&media=software HTTP/1.1" 200 55
+[2023-06-01 21:55:20,273] script INFO : 38 - Information not found (appleid=860011432)
+[2023-06-01 21:55:55,966] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:55:56,509] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /lookup?id=860011430&media=software HTTP/1.1" 200 4329
+[2023-06-01 21:55:56,521] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:55:56,963] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Ghost&media=software&country=RU&limit=200 HTTP/1.1" 200 321955
+[2023-06-01 21:56:33,592] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:56:34,287] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /lookup?id=1557035248&media=software HTTP/1.1" 200 3350
+[2023-06-01 21:56:34,293] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:56:39,203] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=The&media=software&country=RU&limit=200 HTTP/1.1" 200 333714
+[2023-06-01 21:58:49,113] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:58:49,631] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /lookup?id=1557035248&media=software HTTP/1.1" 200 3350
+[2023-06-01 21:58:49,653] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:58:50,084] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=The&media=software&country=RU&limit=200 HTTP/1.1" 200 333714
+[2023-06-01 21:58:50,569] script INFO : 116 - The position search result has been added to the table (word=The)
+[2023-06-01 21:58:50,569] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:58:51,002] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Ghost&media=software&country=RU&limit=200 HTTP/1.1" 200 321955
+[2023-06-01 21:58:51,571] script INFO : 116 - The position search result has been added to the table (word=Ghost)
+[2023-06-01 21:58:51,571] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:58:56,570] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Survival&media=software&country=RU&limit=200 HTTP/1.1" 200 494917
+[2023-06-01 21:58:57,071] script INFO : 116 - The position search result has been added to the table (word=Survival)
+[2023-06-01 21:58:57,071] connectionpool DEBUG : 971 - Starting new HTTPS connection (1): itunes.apple.com:443
+[2023-06-01 21:59:01,768] connectionpool DEBUG : 452 - https://itunes.apple.com:443 "GET /search?term=Horror&media=software&country=RU&limit=200 HTTP/1.1" 200 371554
+[2023-06-01 21:59:02,235] script INFO : 116 - The position search result has been added to the table (word=Horror)
+[2023-06-01 21:59:02,235] script INFO : 121 - Research for The Ghost  Survival Horror completed
